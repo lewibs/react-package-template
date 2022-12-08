@@ -4,6 +4,7 @@
   "private": false,
   "author": "",
   "description": "",
+  "main": "dist/exports.js",
   "keywords": [],
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
