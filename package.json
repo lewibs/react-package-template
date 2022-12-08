@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "private": false,
   "description": "",
+  "keywords": [],
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@testing-library/jest-dom": "^5.16.5",
